@@ -1,4 +1,5 @@
 fun
 ===
 
-Useful functions used in geneticanalysis
+Useful functions used in genetic analysis
+
